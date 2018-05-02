@@ -32,10 +32,17 @@ p {
   font-size: 11px;
   color: white;
 }
-.broadway, {
+.broadway {
 font-family: helvetica;
 font-size: 70px;
 font-weight: bold;
 color: white;
 text-decoration: none;
+}
+.footer {
+  text-align: left;
+  font-family: helvetica;
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
 }
